@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavo-nt/ignite-feed/blob/master/src/assets/ignite-logo.svg" alt="Ignite Feed" width="130"/>
+  <img src="https://github.com/gustavo-nt/ignite-feed/blob/master/src/assets/ignite-logo.svg" alt="Ignite Feed"/>
 </p>
 
 <h1 align="center">
