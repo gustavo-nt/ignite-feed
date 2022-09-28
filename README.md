@@ -32,7 +32,7 @@
 - [x] Curtir um comentário
 
 ### 💻 Demonstração
-<img src="https://github.com/gustavo-nt/ignite-coffee/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
+<img src="https://github.com/gustavo-nt/ignite-feed/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
 
 ### ⚙ Pré-requisitos
 
