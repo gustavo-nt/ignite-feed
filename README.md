@@ -33,7 +33,7 @@
 - [x] Curtir um comentário
 
 ### 💻 Projeto
-Ignite Feed é uma plataforma para coletas de feedbacks de usuários acerca de um determinado assunto. Esse Projeto foi desenvolvido na Semana 01 do Bootcamp Ignite.
+Ignite Feed é uma plataforma para coletas de feedbacks de usuários acerca de um determinado assunto. Esse Projeto foi desenvolvido durante a Semana 01 do Bootcamp Ignite.
 
 ### ✅ Demonstração
 <img src="https://github.com/gustavo-nt/ignite-feed/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
