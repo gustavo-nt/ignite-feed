@@ -5,6 +5,7 @@
 <h1 align="center">
     🚀 Ignite Feed
 </h1>
+<p align="center">Aplicação do Bootcamp Ignite sobre Fundamentos do React</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/react%20version-18.0.1-informational"/>
